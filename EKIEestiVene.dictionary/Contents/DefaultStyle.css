@@ -1,0 +1,96 @@
+h1 {
+	font-weight: 700;
+}
+
+h3 {
+	margin: 0.55em 0 0.3em;
+	font-size: 0.86em;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	color: #7a7a7a;
+}
+
+.pos {
+	font-style: italic;
+	color: #666;
+}
+
+.forms-block {
+	margin-top: 0.7em;
+	padding: 0.2em 0 0.45em;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.forms-main {
+	margin: 0.15em 0 0.35em;
+}
+
+.form-card {
+	display: inline-block;
+	min-width: 7.2em;
+	margin: 0 0.45em 0.45em 0;
+	padding: 0.42em 0.6em 0.48em;
+	border-radius: 0.7em;
+	background: #eef4fb;
+	vertical-align: top;
+}
+
+.form-label {
+	display: block;
+	margin-bottom: 0.18em;
+	font-size: 0.74em;
+	text-transform: uppercase;
+	letter-spacing: 0.03em;
+	color: #6f8093;
+}
+
+.form-value {
+	display: block;
+	font-weight: 700;
+	color: #123f6b;
+}
+
+.forms-rest-label {
+	margin: 0.15em 0 0.12em;
+	font-size: 0.78em;
+	text-transform: uppercase;
+	letter-spacing: 0.03em;
+	color: #8b8b8b;
+}
+
+.forms-rest {
+	margin: 0 0 0.2em;
+	color: #31597f;
+	line-height: 1.45;
+}
+
+.morph-type {
+	margin: 0.15em 0 0;
+	font-size: 0.88em;
+	color: #777;
+}
+
+.sense {
+	margin-top: 0.8em;
+	padding-top: 0.25em;
+	border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.translations-list {
+	margin: 0.3em 0 0.5em;
+	padding-left: 1.3em;
+}
+
+.definition {
+	margin: 0.25em 0;
+	color: #444;
+}
+
+.example-et {
+	margin: 0.35em 0 0;
+}
+
+.example-ru {
+	margin: 0.1em 0 0.45em;
+	color: #1f4c7a;
+}
